@@ -1,0 +1,12 @@
+.error{
+    background-color: #122A47;
+    /* margin-bottom: -50px;
+    margin-top: 50px;
+    padding: 10px 0px 10px 0px; */
+}
+
+.error-font{
+    font-family:'Tajawal', sans-serif;
+    font-size: 15px;
+    color: #D8F9FF;
+}
