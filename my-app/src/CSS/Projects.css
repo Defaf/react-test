@@ -38,6 +38,15 @@ li {
     border: 1px solid #abaca9;
     width: 99%;
 }
+.card:hover {
+    border: 1px solid #d0d0d0;
+    opacity: 0.3;
+ }
+
+ .card:hover p {
+    color: #dce0d2;
+ }
+
 .container {
     padding: 2px 40px;
 }
