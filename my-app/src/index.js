@@ -4,7 +4,7 @@ import './index.css';
 import App from './Components/App';
 import Doc from './Components/Doc';
 import Project from "./Components/Projects";
-import Footer from "./Components/Footer"
+import Footer from "./Components/Footer";
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
